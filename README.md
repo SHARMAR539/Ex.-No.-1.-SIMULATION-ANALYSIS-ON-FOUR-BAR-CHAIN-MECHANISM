@@ -59,7 +59,7 @@
 
 
 ### Name:SHARMA R
-### Register Number:24900539
+### Register Number:212224230261
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
